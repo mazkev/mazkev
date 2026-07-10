@@ -7,18 +7,44 @@
 </p>
 
 ---
-
 ### 🚀 About Me
-I'm a **Backend Developer** passionate about building high-performance, scalable web applications and REST APIs. I enjoy designing database schemas, implementing caching strategies, and optimizing server response times.
+I'm a **Fullstack Developer** who loves crafting beautiful, responsive user interfaces on the frontend while building high-performance, scalable backend APIs.
 
-* 🛠️ **Current Focus**: Microservices, RESTful APIs, and Performance Tuning.
-* 📖 **Learning**: Advanced Spring Boot patterns and system architectures.
-* 💬 **Ask me about**: JavaScript (Node.js), Java (Spring Boot), MongoDB, and Redis.
+* 🛠️ **Current Focus**: Modern Web Apps (React/Next.js) & Robust Backend Architectures.
+* 📖 **Learning**: Advanced architectural patterns and cloud deployments.
+* 💬 **Ask me about**: React, Tailwind CSS, Node.js, Spring Boot, and Databases.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+#### 💻 Frontend
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
+      <br />Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+#### ⚙️ Backend & Database
 <table>
   <tr>
     <td align="center" width="96">
@@ -28,10 +54,6 @@ I'm a **Backend Developer** passionate about building high-performance, scalable
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      <br />Express
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
@@ -54,10 +76,6 @@ I'm a **Backend Developer** passionate about building high-performance, scalable
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="48" height="48" alt="Postman" />
-      <br />Postman
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -91,20 +109,6 @@ I'm a **Backend Developer** passionate about building high-performance, scalable
 
 ---
 
-<p align="center"><i>"Building robust APIs, one line of code at a time."</i></p>
+<p align="center"><i>"Building seamless user experiences from database to interface."</i></p>
 
-
-<!--
-**mazkev/mazkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
